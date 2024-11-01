@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box1st{
+    text-align: center;
+   
+}
+#box2nd{
+    text-align: center;
+}
+#box1,#box2,#box3,#box4{
+    margin: 10px;
+}
+/* #box1 h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+#box2 h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+#box3 h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+#box4 h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+} */
+ h3{
+    text-align: center;
+    margin-top: 100px;
+ }
+ form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
